@@ -7,6 +7,8 @@
 
 }
 /* 
+ * Control (MainMenu, Inventory, FightMenu)
  * Attack (Buffs, Debuffs, Weapon)
- * Places (beginning: DonauAnlegestelle -> Wittgasse -> Ludwigstraße (domPlatz domhofBrunnen (Steinweg -> Berggasse -> Höllgasse, Gasthof ->Nußbaumgasse))) 
+ * Places (DonauAnlegestelle -> Wittgasse -> Ludwigstraße (domPlatz domhofBrunnen (Steinweg -> Berggasse -> Höllgasse, Gasthof ->Nußbaumgasse) -> Bossroom(inside))) 
+ * Items (Healing Potion, Mikrophasertuch, Key zum dom, CreationStone, Weiße Rose)
  */

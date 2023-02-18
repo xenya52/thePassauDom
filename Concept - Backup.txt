@@ -1,0 +1,49 @@
+ 
+PLACES
+
+beginning:
+DonauAnlegestelle ->
+Wittgasse ->
+Ludwigstraße
+
+domHof:
+domPlatz
+domhofBrunnen
+
+openWorld:
+Steinweg ->
+Berggasse ->
+Höllgasse, Gasthof ->
+Nußbaumgasse
+
+bossRoom:
+PassauerDom (Inside, die brennende laura)
+
+Story:
+Ankuft am hafen(aufklärung über unsern auftrag) -> durch die straße(ein dialog) -> domPlatz(priester, aufklärung ü. inneren dom) ->
+domhofBrunnen (genaue Beschreibung und das plözliche erscheinen eines gegners) ->
+Steinweg(item gefunden(inventar basteln)) -> Berggasse (detailierte beschreibung) -> höllgasse (gegner: dieb) || Gasthof (detalierte beschreibung)
+-> Nußbaumgasse (gegner der einen key dropt) ... nochmal in die wittgasse und da ist ein gegner der ein item für das good ending dropt
+Bossroom, Laura die flamentänzerin
+
+Lucy (protagonistin)
+ 19 jahre(lp), adlig, mit der Geige creationsfähig,
+Ihre attacken: Klatsche, Tritt; mit Katze: Entzünden,
+
+NPC
+Bootsmann (DonauAnlegestelle)
+Franz der Kutscher (Ludwigstraße)
+friendlyPriest (domPlatz)
+
+Eniemys
+Ferdienant der verkommene adlige (am domhofBrunnen)
+Marcel die Schlangenzunge (höllgasse)
+Armin komplize der Flamentänzerin (nussbaumgasse)
+!!!Secret!!! Franz der Taschendieb (Wittgasse)
+
+Items
+Healing Potion
+Mikrophasertuch
+Key zum dom
+CreationStone
+Weiße Rose
