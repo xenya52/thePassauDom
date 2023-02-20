@@ -8,10 +8,10 @@ namespace textAdventure_thePassauDom_
 {
     internal interface Ientity
     {
-        public string Name { get; set; }
-        public string Description { get; set; }
-        public int HP { get; set; }
-        public int Sp { get; set; }
+        public string EntityName { get; set; }
+        public string EntityLittleDescription { get; set; }
+        public int EntityHP { get; set; }
         public void EntityDescription();
+        public void EntityAttack();
     }
 }
