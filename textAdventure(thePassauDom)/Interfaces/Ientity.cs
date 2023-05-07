@@ -12,6 +12,5 @@ namespace textAdventure_thePassauDom_
         public string EntityLittleDescription { get; set; }
         public int EntityHP { get; set; }
         public void EntityDescription();
-        public void EntityAttack();
     }
 }

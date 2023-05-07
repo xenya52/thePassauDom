@@ -18,10 +18,5 @@ namespace textAdventure_thePassauDom_
             Console.WriteLine(EntityName + ", " + EntityLittleDescription);
             Console.ReadKey();
         }
-        public void EntityAttack()
-        {
-            Console.WriteLine(EntityName + " greift an und macht " + hp + " damage!");
-            Console.ReadKey();
-        }
     }
 }

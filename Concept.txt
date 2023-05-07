@@ -1,24 +1,3 @@
- 
-PLACES
-
-beginning:
-DonauAnlegestelle ->
-Wittgasse ->
-Ludwigstraße
-
-domHof:
-domPlatz
-domhofBrunnen
-
-openWorld:
-Steinweg ->
-Berggasse ->
-Höllgasse, Gasthof ->
-Nußbaumgasse
-
-bossRoom:
-PassauerDom (Inside, die brennende laura)
-
 Story:
 Ankuft am hafen(aufklärung über unsern auftrag) -> durch die straße(ein dialog) -> domPlatz(priester, aufklärung ü. inneren dom) ->
 domhofBrunnen (genaue Beschreibung und das plözliche erscheinen eines gegners) ->

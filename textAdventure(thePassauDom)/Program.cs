@@ -19,10 +19,7 @@ class program
 
         Console.WriteLine(Player1.Name + " macht sich auf einen Angriff gefasst.");
         Console.ReadKey();
-
-        Human1.EntityAttack();
-        Console.ReadKey();
-
+        
         //Berechnung
         Player1.hp = Player1.hp - Human1.hp;
 

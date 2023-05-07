@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace textAdventure_thePassauDom_
 {
-    internal interface Iattack
+    internal interface Iplayerattack
     {
         //Characteristics
         public string Name { get; set; }
