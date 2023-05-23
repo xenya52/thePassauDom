@@ -11,5 +11,7 @@ namespace textAdventure_thePassauDom_
         public string Name { get; set; }
         public int hp { get; set; }
         public int sp { get; set; }
+        public int klass { get; set; }
+        public int damage { get; set; }
     }
 }
